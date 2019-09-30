@@ -1,2 +1,4 @@
  hello banu!!!
 /usr/bin/bash: q: command not found
+My name is banu 
+ich haiben banu
